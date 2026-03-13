@@ -1,1 +1,110 @@
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎖️ELC-901🎖️ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div align="center">
+  
+# ELC-901
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00F7A7&center=true&vCenter=true&width=435&lines=Python+Developer;Lua+Enthusiast;Web+Designer;Age+of+Resources+Creator)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🛠️ **Технологии**
+
+<div align="center">
+
+### 🔹 **Языки программирования**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+### 🔹 **Среды разработки (IDE)**
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-24bfa5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Windows Notepad](https://img.shields.io/badge/Windows_Notepad-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+### 🔹 **Дополнительные инструменты**
+
+<div align="center">
+
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 **Главные проекты**
+
+<div align="center">
+
+### [⚔️ Age of Resources](https://github.com/ELC-901/age-of-resources)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ELC-901&repo=age-of-resources&theme=lime&border_color=00F7A7)](https://github.com/ELC-901/age-of-resources)
+
+</div>
+
+---
+
+## 📊 **Статистика**
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELC-901&show_icons=true&theme=lime&count_private=true&include_all_commits=true&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELC-901&layout=compact&theme=lime&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ELC-901&theme=lime&border=00F7A7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 **Достижения**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ELC-901&theme=lime&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 **Вклад в Open Source**
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake.svg">
+  <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📫 **Связаться со мной**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ELC-901)
+
+</div>
