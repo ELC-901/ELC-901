@@ -77,13 +77,7 @@
 
 ---
 
-## 🏆 **Трофеи**
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ELC-901&theme=gruvbox&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
