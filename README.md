@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡ ELC-901
+# ELC-901
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00F7A7&center=true&vCenter=true&width=435&lines=Python+Developer;Lua+Enthusiast;Web+Designer;Age+of+Resources+Creator)](https://git.io/typing-svg)
 
