@@ -23,8 +23,10 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ### 🔹 **Среды разработки (IDE)**
+</div>
 
 <div align="center">
 
@@ -38,9 +40,10 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ### 🔹 **Дополнительные инструменты**
-
+</div>
 <div align="center">
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -50,9 +53,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🚀 **Главные проекты**
 
+</div>
 <div align="center">
 
 ### [⚔️ Age of Resources](https://github.com/ELC-901/age-of-resources)
@@ -64,9 +69,10 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 📊 **Статистика**
-
+</div>
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELC-901&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
@@ -82,9 +88,10 @@
 
 
 ---
-
+<div align="center">
+  
 ## 🐍 **Вклад в Open Source**
-
+</div>
 <div align="center">
 
 <picture>
